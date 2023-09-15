@@ -10,4 +10,5 @@
 .env*
 !.env.example
 playground.py
-*.txt
+*.json
+*.jsonl
